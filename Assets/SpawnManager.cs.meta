@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8de8b67715d727145a9792c878276cd9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - seedPrefab: {fileID: 6100281593570210001, guid: 0f65c7b4040cded45b9466a1e11049d1, type: 3}
+  - waterPrefab: {fileID: 2274779245367338830, guid: ed622d0343c75e24983d9f44b7677f62, type: 3}
+  - sunlightPrefab: {fileID: 5313517409718516883, guid: be69054c2ed170b4c810a8ffd7b96bab, type: 3}
+  - trashPrefab: {fileID: 7655528062583001571, guid: 7935a70eb8fe3cf4dbc037b5194dae25, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
